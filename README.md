@@ -1,1 +1,1 @@
-<img src="vaporwave_banner.gif">
+<img src="vaporwave_banner.gif" width="2000">
