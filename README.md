@@ -2,11 +2,11 @@
   <h1>Jarred Mahinay</h1>
 </div>
 
-### About Me 😁
+### About Me
 
 I graduated in 2021 with a B.Sc. in Computing Science from the University of Alberta. 
 
-### My Toolbox 👷‍♂️
+### My Toolbox
 <div align="center"> 
   
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
